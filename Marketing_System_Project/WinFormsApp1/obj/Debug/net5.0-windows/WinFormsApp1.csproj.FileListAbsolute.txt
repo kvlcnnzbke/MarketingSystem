@@ -1,0 +1,159 @@
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PURCHASINGDEPARTMENT.resources
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.STOREATTENDANT.resources
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.LOGINPAGE1.resources
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.MARKETINGDEPARTMENT2.resources
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.addnewcustomerformarketing.resources
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ADDNEWPRODUCTTORAYON.resources
+C:\Users\USER\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.marketingstatistics.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.addnewcustomerformarketing.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ADDNEWPRODUCTTORAYON.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.LOGINPAGE1.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.MARKETINGDEPARTMENT2.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.marketingstatistics.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PURCHASINGDEPARTMENT.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.STOREATTENDANT.resources
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\218-new\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.addnewcustomerformarketing.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ADDNEWPRODUCTTORAYON.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.LOGINPAGE1.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.MARKETINGDEPARTMENT2.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.marketingstatistics.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PURCHASINGDEPARTMENT.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.STOREATTENDANT.resources
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Kıvılcım\Desktop\Buse-Beyza-Kıvılcım-218 PROJECT\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.addnewcustomerformarketing.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ADDNEWPRODUCTTORAYON.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.LOGINPAGE1.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.MARKETINGDEPARTMENT2.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.marketingstatistics.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PURCHASINGDEPARTMENT.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.STOREATTENDANT.resources
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Kıvılcım\Desktop\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.addnewcustomerformarketing.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ADDNEWPRODUCTTORAYON.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.LOGINPAGE1.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.MARKETINGDEPARTMENT2.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.marketingstatistics.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PURCHASINGDEPARTMENT.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.STOREATTENDANT.resources
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Kıvılcım\Desktop\IE218\KıvılcımNazB-BuseNurY-BeyzaÖ\11.05_218project\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
