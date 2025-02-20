@@ -54,7 +54,7 @@ User can also modify the order quantity by entering a new amount and clicking th
 
 ![WhatsApp Image 2025-02-19 at 22 11 49](https://github.com/user-attachments/assets/86c277af-bb4e-4e4f-b620-0d315b10828b)
 
-#Store Attendant
+# Store Attendant
 For purchasing department, user should select Store Attendant in the Login Page.
 
 ![WhatsApp Image 2025-02-19 at 22 11 49 (1)](https://github.com/user-attachments/assets/7db2ec4d-ae87-4653-846e-300351ec3c39)
