@@ -65,7 +65,7 @@ To see the data of products that is in the currently store, user can clik the li
 
 ![WhatsApp Image 2025-02-19 at 22 11 45 (2)](https://github.com/user-attachments/assets/d96eb71a-dd59-4486-a996-bb5f245da145)
 
-The expiration date of products is also changeable. Additionally, without selecting any product from the list,users can enter new data into the fields and click the Add New Product to Rayon button to add new products to the database.
+The expiration date of products is also changeable. Additionally, without selecting any product from the list, users can enter new data into the fields and click the Add New Product to Rayon button to add new products to the database.
 
 ![WhatsApp Image 2025-02-19 at 22 11 45](https://github.com/user-attachments/assets/6d4124ad-2557-4314-a20a-6594f1dcb551)
 
