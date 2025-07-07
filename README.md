@@ -3,7 +3,7 @@ Marketing System is a Windows-based application connected to a MySQL database, d
 
 This application enhances workflow automation, reduces manual workload, and ensures seamless communication between different departments, ultimately improving overall efficiency in the market's operations.
 
-Developed with: C# and MySQL
+Developed with: C# and MSSQL
 
 Features: Inventory management, purchase tracking, marketing tools, and department-specific functionalities.
 
